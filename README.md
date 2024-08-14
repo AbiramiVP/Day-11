@@ -1,2 +1,2 @@
 # Day-11
-This repository includes responsive Event-Home page and Event-Update page
+This repository includes responsive Event-Update page
